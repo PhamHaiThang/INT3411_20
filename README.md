@@ -5,7 +5,7 @@ MFCCs: https://colab.research.google.com/drive/1mfLb38jSKDpfUOdzgtuuCexflMS-Pv0T
 
 DTW:   https://colab.research.google.com/drive/1NlB8MozFxb6ZFzEXm0Dt8EUCe6Iuqdbo?usp=sharing
 
-HMM:   https://colab.research.google.com/drive/1dgOrw8vkJktF_sGkiGFg2BuTnLXkmpUg?usp=sharing
+HMM:   https://colab.research.google.com/drive/1VaJBImW_1gr24EBCy3pWefrxKeHDipNp?usp=sharing
 
 
 
